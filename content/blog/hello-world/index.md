@@ -21,6 +21,8 @@ Oh, and here's a great quote from this Wikipedia on
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
+![Hello There](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
 You can also write code blocks here!
 
 ```js
