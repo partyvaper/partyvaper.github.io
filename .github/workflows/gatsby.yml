@@ -14,3 +14,5 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: gh-pages
+      - uses: actions/upload-pages-artifact@v2
+      - uses: actions/deploy-pages@v2
